@@ -1,8 +1,8 @@
-# OpenCV Canny edge detection
-Detects edges using canny.
+# OpenCV Canny edge dedection
+Dedects edges using canny.
 
 Run for installation:
-    ```bash
+```bash
 mkdir build
 cd build
 cmake ..
